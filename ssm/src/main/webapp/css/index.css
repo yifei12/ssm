@@ -1,0 +1,28 @@
+.box .nav {
+  width: 100%;
+  height: 30px;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+}
+.box .nav .nav_m {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.box .nav .nav_m li {
+  float: left;
+  margin-left: 10px;
+}
+.box .nav .nav_m ul {
+  margin-left: 500px;
+}
+.box .header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+.box .header .logo {
+  margin-right: 500px;
+}
